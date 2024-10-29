@@ -1,0 +1,13 @@
+R markdown File
+
+
+```{r}
+#Exercise 1 
+
+
+#Function 1
+#load data
+data <- data("airquality")
+View(airquality)
+#Finished first_function transformation
+```
