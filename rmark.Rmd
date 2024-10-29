@@ -16,7 +16,7 @@ View(airquality)
 
 #Function 2
 
-#second_function(data)
+#second_function(new_data)
   #transformation
 
 #Finished first_function transformation
