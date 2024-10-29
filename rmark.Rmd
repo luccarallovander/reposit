@@ -11,3 +11,14 @@ data <- data("airquality")
 View(airquality)
 #Finished first_function transformation
 ```
+
+```{r}
+
+#Function 2
+
+#second_function(data)
+  #transformation
+
+#Finished first_function transformation
+
+```
